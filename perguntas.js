@@ -1,13 +1,13 @@
 criaCartao(
     'Cinema',
     'Qual o primeiro filme do Richard gere?',
-    ''
+    'Report to the Comissioner (1975)'
 )
 
 criaCartao(
     'Musica',
-    'Em que ao',
-    'A capital da França é Paris'
+    'Em que ano Taylor Swift',
+    'Em 1989'
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Filmes',
+    'Em que ano lançou o filme Um amor para recordar',
+    'Em 2002'
 )
